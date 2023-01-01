@@ -11,6 +11,9 @@ This repository contains all the laboratory coursework for the course **CS F342:
 | 2  | Combinational Digital Circuit Modelling, `4x1` Mux, `3x8` decoder, Full Adder/Subtractor | [Lab 2](lab-02/labsheet.pdf) | 24 Sep 2022 |
 | 3  | Sequential circuits, blocking and non-blocking assignments, Finite State Machine, 4-bit Shift Register | [Lab 3](lab-03/labsheet.pdf) | 01 Oct 2022 |
 | 4  | Design a simple MIPS ALU, control PLA and ALU control logic | [Lab 4](lab-04/labsheet.pdf) | 08 Oct 2022 |
+| 5  | Designing a sample 32-bit register file for a MIPS processor | [Lab 5](lab-05/labsheet.pdf) | 15 Oct 2022 |
+| 6  | Modeling MIPS Single Cycle Datapath in Verilog | [Lab 6](lab-06/labsheet.pdf) | 22 Oct 2022 |
+| 7  | Modeling 3-stage pipeline design in Verilog | [Lab 7](lab-07/labsheet.pdf) | 12 Nov 2022 |
 
 
 
